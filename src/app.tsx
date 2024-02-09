@@ -40,7 +40,7 @@ export function App() {
             loop
             src={atLast}
           />
-          <h1 className="font-display text-rose-700 text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl transition-all">
+          <h1 className="font-display text-rose-700 text-3xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl transition-all">
             <span className="animate-pulse">❤️🎉❤️</span> Yeeeaaahhh!!!{' '}
             <span className="animate-pulse">❤️🎉❤️</span>
           </h1>
